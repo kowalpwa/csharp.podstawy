@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace asd.Properties
+namespace KULNET.Properties
 {
 
 

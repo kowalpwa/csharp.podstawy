@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asd", "asd\asd.csproj", "{ACE2EF6F-FF71-41A4-A48B-FDAA3DA50384}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KULNET", "KULNET.csproj", "{ED498149-50CF-440D-BD02-0E20DCD7243B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ACE2EF6F-FF71-41A4-A48B-FDAA3DA50384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ACE2EF6F-FF71-41A4-A48B-FDAA3DA50384}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ACE2EF6F-FF71-41A4-A48B-FDAA3DA50384}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ACE2EF6F-FF71-41A4-A48B-FDAA3DA50384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED498149-50CF-440D-BD02-0E20DCD7243B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED498149-50CF-440D-BD02-0E20DCD7243B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED498149-50CF-440D-BD02-0E20DCD7243B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED498149-50CF-440D-BD02-0E20DCD7243B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

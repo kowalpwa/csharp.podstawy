@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace asd
+namespace KULNET
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
